@@ -1808,18 +1808,10 @@ body {
     padding-top: 3rem;
   }
 }
-.cid-qCdNnFTTNW {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background: linear-gradient(45deg, #f4a997, #a09fc0);
+.cid-qCdNRkfaxx {
+  background: linear-gradient(45deg, #fbac7f, #e5658a);
 }
-@media (min-width: 992px) {
-  .cid-qCdNnFTTNW .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-qCdNnFTTNW .mbr-figure {
-    padding-top: 3rem;
-  }
+.cid-qCdNRkfaxx .mbr-section-subtitle {
+  font-style: italic;
+  letter-spacing: 1rem;
 }
